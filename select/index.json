@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "水龍吟",
+  "base_artist": "HOYO-MiX",
+  "createdAt": "2025-12-30T06:47:48.465865Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "水龍吟",
+      "artist": "HOYO-MiX",
+      "has_synced": true,
+      "path": "select/01_水龍吟_HOYO-MiX.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "水龍吟 (Instrumental)",
+      "artist": "HOYO-MiX",
+      "has_synced": true,
+      "path": "select/02_水龍吟_(Instrumental)_HOYO-MiX.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "수룡음(水龍吟)",
+      "artist": "HOYO-MiX",
+      "has_synced": true,
+      "path": "select/03_수룡음(水龍吟)_HOYO-MiX.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "水龍吟",
+      "artist": "HOYO-MiX, 优素, 宫奇",
+      "has_synced": false,
+      "path": "select/pl_01_水龍吟_HOYO-MiX,_优素,_宫奇.txt"
+    }
+  ]
+}
